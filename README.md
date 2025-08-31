@@ -1,5 +1,3 @@
-# unemployment-analysis-project
-An analysis of India's unemployment rate during the Covid-19 pandemic using Python.
 # Unemployment in India During the COVID-19 Pandemic
 
 This is a simple data analysis project that looks at how the unemployment rate in India was affected by the COVID-19 pandemic in 2020. The goal was to use real-world data to see the economic impact of the nationwide lockdown.
@@ -16,14 +14,15 @@ Here's the main chart from the analysis that visualizes this trend:
 
 It's pretty straightforward. You just need Python and a few common libraries (pandas, matplotlib, seaborn).
 
-1.  Make sure you have all the files in the same folder:
+1.  **Make sure you have all the files in the same folder:**
     * `unemployment_analysis.py` (the main code)
     * `Unemployment_Rate_upto_11_2020.csv` (the dataset)
-2.  Run the Python script from your terminal:
+
+2.  **Run the Python script from your terminal:**
     ```bash
     python unemployment_analysis.py
     ```
-3.  This will run the analysis and generate the chart `unemployment_rate_over_time.png`.
+    This will run the analysis and generate the chart `unemployment_rate_over_time.png`.
 
 ## The Data
 
