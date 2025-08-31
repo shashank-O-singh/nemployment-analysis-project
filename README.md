@@ -1,4 +1,4 @@
-# nemployment-analysis-project
+# unemployment-analysis-project
 An analysis of India's unemployment rate during the Covid-19 pandemic using Python.
 # Unemployment in India During the COVID-19 Pandemic
 
